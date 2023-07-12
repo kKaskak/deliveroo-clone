@@ -71,7 +71,7 @@ const HomeScreen = () => {
         <FeaturedRow
           id="3"
           title="Offers near you!"
-          description="Why not support your local restaurant tonight!"
+          description="Why not support your locall restaurant tonight!"
         />
       </ScrollView>
     </SafeAreaView>
